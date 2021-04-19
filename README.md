@@ -6,7 +6,7 @@ The position can be filled by working remotly. The company is Loopfront AS, base
 building materials and fixtures. 
 I'm also seeking to fill several permanent positions with one of Norways leading IT Consultancy firms. Norwegian is however a requirement. #1 Senior Consultant - DevOps, # 2 Consultant/Advisor MS365/ Sharepoint/Power - (Both Workplace Stavanger, Norway) 
 
-- 📫 How to reach me and get a copy of the job description: Sending me an e-mail on oivind@skyrekruttering.no if any of the above sound interesting :-)
+- 📫 How to reach me and get a copy of the job description: Please see below/attached or send me an e-mail on oivind@skyrekruttering.no if any of the above sound interesting :-)
 
 <!---
 berghoiv/berghoiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
